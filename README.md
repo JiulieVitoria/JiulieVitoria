@@ -19,7 +19,7 @@ Meu nome é Jiulie Vitória, mas prefiro que me chamem de Jiu. Sou moradora da Z
 <h2 id="contato">Entre em contato 📞</h2>
 <div align="">
  
-   [![LINKEDIN](https://img.shields.io/badge/-Jiulie%20Vitoria-004f93?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiulie-vit%C3%B3ria//)](https://www.linkedin.com/in/jiulie-vit%C3%B3ria/)
+   [![LINKEDIN](https://img.shields.io/badge/-Jiulie%20Vitoria-004f93?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiulie-vitoria//)](https://www.linkedin.com/in/jiulie-vitoria/)
  <br>
 
 </div>
