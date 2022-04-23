@@ -30,7 +30,7 @@ Meu nome é Jiulie Vitória, mas prefiro que me chamem de Jiu. Sou moradora da Z
 - [x] HTML
 - [x] CSS
 - [x] Git
-
+- [x] JavaScript
 
 <h2 id="curiosidades">  Alguns fatos sobre mim ☕ </h2>
 
