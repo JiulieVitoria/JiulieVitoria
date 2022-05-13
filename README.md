@@ -1,4 +1,4 @@
-<div>
+ <div>
  
 ![banner do perfil](https://img.wattpad.com/68a519811178d3659d7f312ba4da0e5088f2a3d3/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f684a6334446578787053434156773d3d2d313034343834383536302e313636663438626361653233336131303337373335343535383031382e676966)
  
@@ -34,16 +34,21 @@ Meu nome é Jiulie Vitória, mas prefiro que me chamem de Jiu. Sou moradora da Z
 
 <h2 id="aprendizado"> Tecnologias que estou estudando 📚 </h2>
 
+
 - [x] JavaScript
 - [x] JQuery
 - [x] Bootstrap
 
-<h2 id="aprendizadofuturo"> Tecnologias que irei estudar 📚
 
+<h2 id="aprendizadofuturo"> Tecnologias que irei estudar 📚
+<br>
+ 
 - [x] Node.js
 - [x] SQL (MySQL)
-
+ 
+ 
 <h2 id="projetos"> Projetos mais relevantes realizados ✨
+ <br>
  
 - [x] [APOD - Astronomy Picture Of the Day](https://github.com/JiulieVitoria/ProjetoAPOD) (HTML, CSS, JavaScript, JQuery, API, Git)
 - [x] [Mensagens Escondidas](https://github.com/JiulieVitoria/Decoder) (HTML, CSS, JavaScript, Git)
@@ -73,3 +78,4 @@ Meu nome é Jiulie Vitória, mas prefiro que me chamem de Jiu. Sou moradora da Z
 <div align="center">
   &#11165;&nbsp;<a href="#inicio"><strong>Voltar ao topo</strong></a>&nbsp;&#11165;
 </div>
+ </div>
