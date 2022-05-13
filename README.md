@@ -7,7 +7,8 @@
 <div id="inicio" align="center">
 &#9734;&nbsp;&nbsp;<a href="#sobre">Resumo</a>&nbsp;&nbsp;
 <a href="#contato">Contato</a>&nbsp;&nbsp;
-<a href="#aprendizado">O que estou estudando</a>&nbsp;&nbsp;
+<a href="#aprendi">Estudos</a>&nbsp;&nbsp;
+<a href="#projetos">Projetos mais relevantes</a>&nbsp;&nbsp;
 <a href="#curiosidades">Curiosidades</a>&nbsp;&nbsp;
 <a href="#status">GitHub Status</a>&nbsp;&nbsp;&#9734;
 </div>
@@ -24,14 +25,30 @@ Meu nome é Jiulie Vitória, mas prefiro que me chamem de Jiu. Sou moradora da Z
 
 </div>
 
-
-<h2 id="aprendizado"> Tecnologias que estou estudando 📚 </h2>
+<h2 id="aprendi"> Tecnologias que possuo conhecimento 📚 </h2>
 
 - [x] HTML
 - [x] CSS
 - [x] Git
-- [x] JavaScript
 
+
+<h2 id="aprendizado"> Tecnologias que estou estudando 📚 </h2>
+
+- [x] JavaScript
+- [x] JQuery
+- [x] Bootstrap
+
+<h2 id="aprendizadofuturo"> Tecnologias que irei estudar 📚
+
+- [x] Node.js
+- [x] SQL (MySQL)
+
+<h2 id="projetos"> Projetos mais relevantes realizados ✨
+ 
+- [x] [APOD - Astronomy Picture Of the Day](https://github.com/JiulieVitoria/ProjetoAPOD) (HTML, CSS, JavaScript, JQuery, API, Git)
+- [x] [Mensagens Escondidas](https://github.com/JiulieVitoria/Decoder) (HTML, CSS, JavaScript, Git)
+- [x] [Formulário de inscrição](https://github.com/JiulieVitoria/FormularioResilia) (HTML, CSS)
+ 
 <h2 id="curiosidades">  Alguns fatos sobre mim ☕ </h2>
 
 - Sou da Turma 17 WebDev Full Stack na Resilia
