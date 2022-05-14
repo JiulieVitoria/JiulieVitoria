@@ -44,7 +44,7 @@ Meu nome é Jiulie Vitória, mas prefiro que me chamem de Jiu. Sou moradora da Z
 
 - [x] Node.js
 - [x] SQL (MySQL)
-- [ ] 
+
 <h2 id="projetos"> Projetos mais relevantes realizados ✨ </h2>
 
 - [x] [APOD - Astronomy Picture Of the Day](https://github.com/JiulieVitoria/ProjetoAPOD) (HTML, CSS, JavaScript, JQuery, API, Git)
