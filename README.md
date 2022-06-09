@@ -30,23 +30,26 @@ Meu nome é Jiulie Vitória, mas prefiro que me chamem de Jiu. Sou moradora da Z
 - [x] HTML
 - [x] CSS
 - [x] Git
+- [x] JavaScript
+- [x] JQuery
+- [x] Bootstrap
 
 
 <h2 id="aprendizado"> Tecnologias que estou estudando 📚 </h2>
 
 
-- [x] JavaScript
-- [x] JQuery
-- [x] Bootstrap
+- [x] SQL (MySQL)
 
 <h2 id="aprendizadofuturo"> Tecnologias que irei estudar 📚 </h2>
 
 
-- [x] Node.js
-- [x] SQL (MySQL)
+- [x] Node.JS
+- [x] React.JS
+
 
 <h2 id="projetos"> Projetos mais relevantes realizados ✨ </h2>
 
+- [x] [BOOTrip](https://github.com/eumatheusmoura/BOOTrip) (HTML, CSS, Bootstrap, JavaScript, JQuery, API, Git)
 - [x] [APOD - Astronomy Picture Of the Day](https://github.com/JiulieVitoria/ProjetoAPOD) (HTML, CSS, JavaScript, JQuery, API, Git)
 - [x] [Mensagens Escondidas](https://github.com/JiulieVitoria/Decoder) (HTML, CSS, JavaScript, Git)
 - [x] [Formulário de inscrição](https://github.com/JiulieVitoria/FormularioResilia) (HTML, CSS)
