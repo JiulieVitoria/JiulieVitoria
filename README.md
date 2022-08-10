@@ -1,8 +1,4 @@
- <div>
- 
-![banner do perfil](https://img.wattpad.com/68a519811178d3659d7f312ba4da0e5088f2a3d3/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f684a6334446578787053434156773d3d2d313034343834383536302e313636663438626361653233336131303337373335343535383031382e676966)
- 
-</div>
+
   
 <div id="inicio" align="center">
 &#9734;&nbsp;&nbsp;<a href="#sobre">Resumo</a>&nbsp;&nbsp;
@@ -33,23 +29,27 @@ Meu nome é Jiulie Vitória, mas prefiro que me chamem de Jiu. Sou moradora da Z
 - [x] JavaScript
 - [x] JQuery
 - [x] Bootstrap
+- [x] MySQL
+- [x] Node.Js
+
 
 
 <h2 id="aprendizado"> Tecnologias que estou estudando 📚 </h2>
 
 
-- [x] SQL (MySQL)
+- [x] React.JS
 
 <h2 id="aprendizadofuturo"> Tecnologias que irei estudar 📚 </h2>
 
 
-- [x] Node.JS
-- [x] React.JS
+- [x] Java
+
 
 
 <h2 id="projetos"> Projetos mais relevantes realizados ✨ </h2>
 
-- [x] [BOOTrip](https://github.com/eumatheusmoura/BOOTrip) (HTML, CSS, Bootstrap, JavaScript, JQuery, API, Git)
+- [x] [Dashboard Steam](https://github.com/JiulieVitoria/Database-Steam) (HTML, CSS, MySQL, JavaScript, Git)
+- [x] [BOOTrip](https://github.com/JiulieVitoria/BOOTrip) (HTML, CSS, Bootstrap, JavaScript, JQuery, API, Git)
 - [x] [APOD - Astronomy Picture Of the Day](https://github.com/JiulieVitoria/ProjetoAPOD) (HTML, CSS, JavaScript, JQuery, API, Git)
 - [x] [Mensagens Escondidas](https://github.com/JiulieVitoria/Decoder) (HTML, CSS, JavaScript, Git)
 - [x] [Formulário de inscrição](https://github.com/JiulieVitoria/FormularioResilia) (HTML, CSS)
@@ -59,7 +59,7 @@ Meu nome é Jiulie Vitória, mas prefiro que me chamem de Jiu. Sou moradora da Z
 - Sou da Turma 17 WebDev Full Stack na Resilia
 - Faço faculdade de Pedagogia
 - Amo escrever poesias
-- Meu sonho é conhecer (e quem sabe morar) Londres.
+- Meu sonho é conhecer (e quem sabe morar em) Londres.
 
 
 <h2 id="status"> Meus status no Github 📈 </h2>
