@@ -31,6 +31,7 @@ Meu nome é Jiulie Vitória, mas prefiro que me chamem de Jiu. Sou moradora da Z
 - [x] Bootstrap
 - [x] MySQL
 - [x] Node.Js
+- [x] MongoDB
 
 
 
@@ -38,6 +39,7 @@ Meu nome é Jiulie Vitória, mas prefiro que me chamem de Jiu. Sou moradora da Z
 
 
 - [x] React.JS
+- [x] Python
 
 <h2 id="aprendizadofuturo"> Tecnologias que irei estudar 📚 </h2>
 
