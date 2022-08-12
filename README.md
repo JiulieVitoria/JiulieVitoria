@@ -50,7 +50,7 @@ Meu nome é Jiulie Vitória, mas prefiro que me chamem de Jiu. Sou moradora da Z
 
 <h2 id="projetos"> Projetos mais relevantes realizados ✨ </h2>
 
-- [x] [DevBurguers Api] (https://github.com/JiulieVitoria/mod4_devburguers_api) (JavaScript, Express, Node.Js, MongoDB, Api, Git)
+- [x] [DevBurguers Api](https://github.com/JiulieVitoria/mod4_devburguers_api) (JavaScript, Express, Node.Js, MongoDB, Api, Git)
 - [x] [Dashboard Steam](https://github.com/JiulieVitoria/Database-Steam) (HTML, CSS, MySQL, JavaScript, Git)
 - [x] [BOOTrip](https://github.com/JiulieVitoria/BOOTrip) (HTML, CSS, Bootstrap, JavaScript, JQuery, API, Git)
 - [x] [APOD - Astronomy Picture Of the Day](https://github.com/JiulieVitoria/ProjetoAPOD) (HTML, CSS, JavaScript, JQuery, API, Git)
