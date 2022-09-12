@@ -11,7 +11,7 @@
 
 <h2 id="sobre">É um prazer ter você no meu perfil 👋 </h2>
 
-Meu nome é Jiulie Vitória, mas prefiro que me chamem de Jiu. Sou moradora da Zona Norte do Rio de Janeiro, apaixonada pela cidade maravilhosa, e estudande de Pedagogia na Universade do Estado do Rio de Janeiro. Apesar disso, estou estudando junto a Resilia para me tornar uma desenvolvedora Full Stack e poder seguir nessa tão sonhada área.
+Meu nome é Jiulie Vitória, mas prefiro que me chamem de Jiu. Sou moradora da Zona Norte do Rio de Janeiro, apaixonada pela cidade maravilhosa, e estudande de Pedagogia na Universade do Estado do Rio de Janeiro. Apesar disso, estou estudando cada vez mais tecnologias de desenvolvimento para poder iniciar minha carreira na área.
 
 <h2 id="contato">Entre em contato 📞</h2>
 <div align="">
@@ -32,24 +32,27 @@ Meu nome é Jiulie Vitória, mas prefiro que me chamem de Jiu. Sou moradora da Z
 - [x] MySQL
 - [x] Node.Js
 - [x] MongoDB
+- [x] React.Js
+
 
 
 
 <h2 id="aprendizado"> Tecnologias que estou estudando 📚 </h2>
 
 
-- [x] React.JS
+- [x] Vue.js
 - [x] Python
 
 <h2 id="aprendizadofuturo"> Tecnologias que irei estudar 📚 </h2>
 
+- [x] TypeScript
 
-- [x] Java
 
 
 
 <h2 id="projetos"> Projetos mais relevantes realizados ✨ </h2>
 
+- [x] [DevBurguer](https://github.com/JiulieVitoria/dev_burguer) (React.Js, JavaScript, HTML, CSS, Api, Git)
 - [x] [DevBurguers Api](https://github.com/JiulieVitoria/mod4_devburguers_api) (JavaScript, Express, Node.Js, MongoDB, Api, Git)
 - [x] [Dashboard Steam](https://github.com/JiulieVitoria/Database-Steam) (HTML, CSS, MySQL, JavaScript, Git)
 - [x] [BOOTrip](https://github.com/JiulieVitoria/BOOTrip) (HTML, CSS, Bootstrap, JavaScript, JQuery, API, Git)
@@ -59,7 +62,7 @@ Meu nome é Jiulie Vitória, mas prefiro que me chamem de Jiu. Sou moradora da Z
  
 <h2 id="curiosidades">  Alguns fatos sobre mim ☕ </h2>
 
-- Sou da Turma 17 WebDev Full Stack na Resilia
+- Sou Resiliente da turma 17
 - Faço faculdade de Pedagogia
 - Amo escrever poesias
 - Meu sonho é conhecer (e quem sabe morar em) Londres.
